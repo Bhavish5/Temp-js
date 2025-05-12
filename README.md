@@ -1,3 +1,3 @@
 # Temp-js
 
-A bunch of temporary javascript programs
+A bunch of temporary javascript programs.
